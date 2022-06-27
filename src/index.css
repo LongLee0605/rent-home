@@ -146,7 +146,7 @@ button {
   left: 0;
   bottom: 0;
   right: 0;
-  height: 85px;
+  height: 70px;
   background-color: #ffffff;
   z-index: 1000;
   display: flex;
@@ -604,6 +604,7 @@ button {
 
 .messageForm {
   margin-top: 0.5rem;
+  margin-bottom: 5rem;
 }
 
 .messageDiv {
